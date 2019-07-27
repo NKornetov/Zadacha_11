@@ -7,7 +7,7 @@ public class main {
 
         Scanner in = new Scanner(System.in);
 
-        String text = in.next();
+        String text = in.nextLine();
 
         System.out.println(text);
     }
